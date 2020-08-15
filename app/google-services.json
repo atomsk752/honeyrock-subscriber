@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411610329776",
+    "firebase_url": "https://honeyrock-gguldok.firebaseio.com",
+    "project_id": "honeyrock-gguldok",
+    "storage_bucket": "honeyrock-gguldok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411610329776:android:3eb58f4e4b4765956a8175",
+        "android_client_info": {
+          "package_name": "com.honeyrock.gguldok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411610329776-u98fguhal2s3tar80bldb5rlid9dc82m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6zaEqnZNQjvGjMxgc4AUOo1tlHr2mJPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411610329776-u98fguhal2s3tar80bldb5rlid9dc82m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
